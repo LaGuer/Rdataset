@@ -1,4 +1,4 @@
-Main website: https://LaGuer.github.io/Rdataset/
+Main website: https://LaGuer.github.io/Rdataset/dataset.html
 
 What is this?
 =============

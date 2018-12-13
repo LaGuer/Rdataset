@@ -10,8 +10,8 @@ What is included?
 
 The list of available datasets (csv and docs) is available here: 
 
-+ `HTML index <http://github.com/LaGuer/Rdatasets/datasets.html>`_
-+ `CSV index <http://github.com/LaGuer/Rdatasets/datasets.csv>`_
++ `HTML index <https://github.com/LaGuer/Rdataset/blob/master/datasets.html>`_
++ `CSV index <http://github.com/LaGuer/Rdatasets/blob/master/datasets.csv>`_
 
 On the github repository you will also find: 
 

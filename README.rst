@@ -1,4 +1,4 @@
-Main website: https://vincentarelbundock.github.io/Rdatasets/
+Main website: https://LaGuer.github.io/Rdatasets/
 
 What is this?
 =============
@@ -10,8 +10,8 @@ What is included?
 
 The list of available datasets (csv and docs) is available here: 
 
-+ `HTML index <http://vincentarelbundock.github.com/Rdatasets/datasets.html>`_
-+ `CSV index <http://vincentarelbundock.github.com/Rdatasets/datasets.csv>`_
++ `HTML index <http://LaGuer.github.com/Rdatasets/datasets.html>`_
++ `CSV index <http://LaGuer.github.com/Rdatasets/datasets.csv>`_
 
 On the github repository you will also find: 
 
